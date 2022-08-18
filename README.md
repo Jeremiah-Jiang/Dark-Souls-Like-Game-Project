@@ -3,6 +3,8 @@ First foray into 3D Game Design, started in Late May of 2022
 
 This is a showcase of the game progress I've made over May till July 2022.
 
+Source Control done via PlasticSCM
+
 ## Summary
 
 I embarked on this project as a way to learn Unity3D. Most of what I've learnt comes from Youtube videos.
