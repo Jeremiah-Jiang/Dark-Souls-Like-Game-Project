@@ -63,7 +63,7 @@ Updated the Inventory UI (basically copied Elden Ring's Inventory UI)
 
 Most stats do not have an actual gameplay effect to them yet.
 
-PS: Enemies are not present as I was trying to refactor them and improve their AI logic but it was more work than I initially expected so they were replaced with a glowing red ball XD
+PS: Enemies are not present as I was trying to refactor them and improve their AI logic but it was more work than I initially expected so they were replaced with a glowing red ball.
 
 https://user-images.githubusercontent.com/83870099/185390507-c42e91ee-f75c-4bb2-b638-8dcf0f50d55f.mp4
 
